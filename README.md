@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Sai Dhakshin
 
-💻 I’m a **Fullstack Developer** (React + Vue + NodeJS + SQL) passionate about fintech, automation, and trading systems.  
+💻 I’m a **Fullstack Developer** (React + Vue + NodeJS + SQL + Python) passionate about fintech, automation, and trading systems.  
 📊 Interested in **algorithmic trading, AI, and financial tech**.  
 🎯 Currently working on projects like **Clear Debt App** 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Twitter](https://twitter.com/your-handle)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sai-dhakshin-95585a1a9) | [Twitter](https://twitter.com/sai_dhakshin)
 
 ---
 
