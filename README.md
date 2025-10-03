@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 [![Sai Dhakshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiDhakshin)](https://github.com/SaiDhakshin/github-readme-stats)
+
+![Sai Dhakshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiDhakshin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Sai Dhakshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiDhakshin&commits_year=2020)
 <!--
 **SaiDhakshin/SaiDhakshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
