@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Sai Dhakshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiDhakshin)](https://github.com/SaiDhakshin/github-readme-stats)
 <!--
 **SaiDhakshin/SaiDhakshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
